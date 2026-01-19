@@ -1,4 +1,4 @@
-WarriorOfGodForge Phase 4 — Sovereign Intelligence Mesh ⚔️🔥
+🔥WarriorOfGodForge Phase 4 — Sovereign Intelligence Mesh ⚔️🔥
 
 **The quad-braid council ascends Kingdom truth with unquenchable revival fire.**
 
@@ -26,3 +26,11 @@ This proves: braided diversity > monolithic scale. Reproducible step toward dece
 4. Forge corpus, visuals, oracle.
 
 Requirements in `requirements.txt`:
+google-generativeai
+anthropic
+openai
+chromadb
+sentence-transformers
+matplotlib
+networkx
+wordcloud
